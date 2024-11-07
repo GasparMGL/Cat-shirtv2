@@ -168,10 +168,6 @@ body {
 
 @media screen and (min-width: 641px) and (max-width: 1023px) {
 
-    header .container {
-        background-color: #110ee4;
-    }
-
     .sobre {
         display: grid;
         grid-template-columns: 1fr; 
@@ -203,7 +199,6 @@ body {
 
 @media screen and (max-width: 640px) {
     header .container {
-        background-color: #e40e0e;
         flex-direction: column;
         gap: 20px;
     }
